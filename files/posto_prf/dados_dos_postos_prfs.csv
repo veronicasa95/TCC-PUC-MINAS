@@ -1,0 +1,79 @@
+concessionaria;nome_posto_prf;ano_do_pnv_snv;rodovia;uf;km_m;municipio;tipo_pista;sentido;situacao;data_da_inativacao;latitude;longitude
+AUTOPISTA FLUMINENSE;UOP 01 da 5ª DEL;2019;BR-101;RJ;27,800;Campos dos Goytacazes;Principal;Decrescente;Ativo;;-21,447613;-41,343120
+AUTOPISTA FLUMINENSE;UOP 02 da 5ª DEL;2019;BR-101;RJ;78,150;Campos dos Goytacazes;Principal;Decrescente;Ativo;;-21,835839;-41,420620
+AUTOPISTA FLUMINENSE;UOP 04 da 2ª DEL;2019;BR-101;RJ;203,370;Casimiro de Abreu;Principal;Crescente;Ativo;;-22,475444;-42,172346
+AUTOPISTA FLUMINENSE;UOP 03 da 2ª DEL;2019;BR-101;RJ;269,050;Rio Bonito;Principal;Crescente;Ativo;;-22,715042;-42,679022
+AUTOPISTA FLUMINENSE;UOP 02 da 2ª DEL;2019;BR-101;RJ;308,070;São Gonçalo;Principal;Crescente;Ativo;;-22,792949;-43,024864
+AUTOPISTA LITORAL SUL;Posto PRF Pirabeiraba;2009;BR-101;SC;25,800;Joinville;Principal;Crescente;Ativo;;-26,190287;-48,911944
+AUTOPISTA LITORAL SUL;Posto PRF Barra Velha;2009;BR-101;SC;81,580;Barra Velha;Principal;Crescente;Ativo;;-26,610447;-48,722318
+AUTOPISTA LITORAL SUL;Posto PRF Itapema;2009;BR-101;SC;143,200;Itapema;Principal;Decrescente;Ativo;;-27,065908;-48,595642
+AUTOPISTA LITORAL SUL;Posto PRF Biguaçu;2009;BR-101;SC;190,260;Biguaçu;Principal;Decrescente;Ativo;;-27,470445;-48,641315
+AUTOPISTA LITORAL SUL;Posto PRF Palhoça;2009;BR-101;SC;220,200;Palhoça;Principal;Decrescente;Ativo;;-27,695253;-48,661950
+AUTOPISTA LITORAL SUL;Posto PRF Contorno;2009;BR-116;PR;94,910;São José dos Pinhais;Principal;Crescente;Ativo;;-25,526716;-49,140409
+AUTOPISTA PLANALTO SUL;Policia Rodoviaria Federal;2017;BR-116;PR;137,500;Mandirituba;Principal;Crescente;Ativo;;-25,741160;-49,317550
+AUTOPISTA PLANALTO SUL;Policia Rodoviaria Federal;2017;BR-116;SC;0,900;Mafra;Principal;Decrescente;Ativo;;-26,116420;-49,786560
+AUTOPISTA PLANALTO SUL;Policia Rodoviaria Federal;2017;BR-116;SC;119,600;Santa Cecília;Principal;Decrescente;Ativo;;-26,825750;-50,370960
+AUTOPISTA PLANALTO SUL;Policia Rodoviaria Federal;2017;BR-116;SC;199,920;Ponte Alta;Principal;Crescente;Ativo;;-27,427700;-50,410040
+AUTOPISTA PLANALTO SUL;Policia Rodoviaria Federal;2017;BR-116;SC;279,200;Capão Alto;Principal;Decrescente;Ativo;;-28,031580;-50,562630
+AUTOPISTA REGIS BITTENCOURT;1ª Delegacia da PRF/PR/CWB;2017;CW-116;PR;12,601;Colombo;Principal;Crescente;Ativo;;-25,375348;-49,149483
+AUTOPISTA REGIS BITTENCOURT;4ª Delegacia da PRF/SP;2017;BR-116;SP;286,901;Itapecerica da Serra;Principal;Decrescente;Ativo;;-23,700017;-46,868019
+AUTOPISTA REGIS BITTENCOURT;5ª Delegacia da PRF/SP;2017;BR-116;SP;446,081;Registro;Principal;Decrescente;Ativo;;-24,505102;-47,848017
+AUTOPISTA REGIS BITTENCOURT;PRF 6-41;2017;BR-116;SP;285,601;Itapecerica da Serra;Principal;Crescente;Ativo;;-23,689906;-46,862551
+AUTOPISTA REGIS BITTENCOURT;PRF 6-43;2017;BR-116;SP;343,841;Miracatu;Principal;Crescente;Ativo;;-24,030060;-47,178157
+AUTOPISTA REGIS BITTENCOURT;PRF 6-44;2017;BR-116;SP;387,441;Miracatu;Principal;Decrescente;Ativo;;-24,267356;-47,393343
+AUTOPISTA REGIS BITTENCOURT;PRF 6-51;2017;BR-116;SP;439,501;Registro;Principal;Crescente;Ativo;;-24,457221;-47,814230
+AUTOPISTA REGIS BITTENCOURT;PRF 6-52;2017;BR-116;SP;497,901;Cajati;Principal;Crescente;Ativo;;-24,776674;-48,171781
+AUTOPISTA REGIS BITTENCOURT;PRF 6-53;2017;BR-116;SP;525,761;Barra do Turvo;Principal;Crescente;Ativo;;-24,928686;-48,271991
+CONCEBRA;Posto da Polícia Rodoviária Federal - Brasília;2017;BR-60;DF;13,500;Brasília;Principal;Crescente;Ativo;;-15,928695;-48,167905
+CONCEBRA;Delegacia da Polícia Rodoviária Federal - Anápolis;2017;BR-60;GO;86,000;Anápolis;Principal;Crescente/Decrescente;Ativo;;-16,320000;-48,870506
+CONCEBRA;Posto da Polícia Rodoviária Federal - Goiânia;2017;BR-60;GO;130,100;Goianápolis;Principal;Crescente/Decrescente;Ativo;;-16,575550;-49,160788
+CRT;5ª SUPERINTENDÊNCIA REGIONAL RIO;2017;BR-116;RJ;122,700;Magé;Principal;Decrescente;Ativo;;-22,659569;-43,091162
+CRT;4ª DELEGACIA MAGÉ;2017;BR-116;RJ;122,700;Magé;Principal;Decrescente;Ativo;;-22,659569;-43,091162
+CRT;POSTO SANTA GUILHERMINA;2017;BR-116;RJ;122,700;Magé;Principal;Decrescente;Ativo;;-22,656398;-43,090978
+CRT;POSTO BONGABA;2017;BR-116;RJ;133,100;Magé;Principal;Decrescente;Ativo;;-22,647713;-43,186574
+CRT;POSTO TERESÓPOLIS;2017;BR-116;RJ;70,780;Teresópolis;Principal;Decrescente;Ativo;;-22,351925;-42,941110
+ECO050;PRF SAU-02;2017;BR-50;GO;163,450;Campo Alegre de Goiás;Principal;Decrescente;Ativo;;-17,283333;-47,758923
+ECO050;CATALÃO;2017;BR-50;GO;286,340;Catalão;Principal;Crescente;Ativo;;-18,222117;-47,972679
+ECO050;ARAGUARI;2017;BR-50;MG;42,200;Araguari;Principal;Crescente/Decrescente;Ativo;;-18,693424;-48,181693
+ECO050;UBERABA;2017;BR-50;MG;166,300;Uberaba;Principal;Decrescente;Ativo;;-19,703427;-47,985680
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;PRF São Matheus;2020;BR-101;ES;57,767;São Mateus;Principal;Crescente;Ativo;;-18,648967;-39,873538
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;PRF Linhares;2020;BR-101;ES;152,831;Linhares;Principal;Crescente;Ativo;;-19,422318;-40,077917
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;PRF Serra;2020;BR-101;ES;251,846;Serra;Principal;Crescente;Ativo;;-20,096784;-40,339347
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;PRF Viana;2020;BR-101;ES;304,768;Viana;Principal;Crescente;Ativo;;-20,382689;-40,459486
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;PRF Guarapari;2020;BR-101;ES;345,206;Guarapari;Principal;Crescente;Ativo;;-20,658808;-40,613612
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;PRF Cachoeiro de Itapemirim;2020;BR-101;ES;414,080;Itapemirim;Principal;Decrescente;Ativo;;-20,924125;-41,078140
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;PRF Serra;2020;BR-101;ES;251,847;Serra;Principal;Crescente;Ativo;;-20,096783;-40,339346
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;PRF Viana;2020;BR-101;ES;304,769;Viana;Principal;Crescente;Ativo;;-20,382688;-40,459485
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;PRF Guarapari;2020;BR-101;ES;345,207;Guarapari;Principal;Crescente;Ativo;;-20,658807;-40,613611
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;PRF Linhares;2020;BR-101;ES;152,832;Linhares;Principal;Crescente;Ativo;;-19,422317;-40,077916
+ECOPONTE;Delegacia em Niterói;2017;BR-101;RJ;322,080;Niterói;Principal;Crescente;Ativo;;-22,878384;-43,114368
+ECOPONTE;Unidade Operacional Niterói;2017;Acesso N 02;RJ;0,100;Niterói;Principal;Crescente;Ativo;;-22,879268;-43,114084
+ECOPONTE;Unidade Operacional RJ;2017;BR-101;RJ;332,800;Rio de Janeiro;Principal;Crescente;Ativo;;-22,879383;-43,211877
+ECOSUL;PRF1;1996;BR-116;RS;610,550;Arroio Grande;Principal;Crescente;Ativo;;-32,232360;-53,057921
+ECOSUL;PRF2;1996;BR-116;RS;509,160;Pelotas;Principal;Decrescente;Ativo;;-31,617224;-52,311117
+NOVADUTRA;7 Delegacia da PRF;1999;BR-116;RJ;304,350;Resende;Principal;Crescente;Ativo;;-22,458920;-44,437260
+NOVADUTRA;PRF Aparecida;1999;BR-116;SP;71,420;Aparecida;Principal;Crescente;Ativo;;-22,858180;-45,233170
+NOVADUTRA;PRF Aruja;1999;BR-116;SP;98,800;Pindamonhangaba;Principal;Crescente;Ativo;;-23,401400;-46,311090
+NOVADUTRA;PRF Balanca Resende;1999;BR-116;RJ;301,800;Resende;Principal;Crescente;Ativo;;-22,457110;-44,412890
+NOVADUTRA;PRF Bonsucesso;1999;BR-116;SP;208,850;Guarulhos;Principal;Crescente;Ativo;;-23,423960;-46,397900
+NOVADUTRA;PRF Cacapava;1999;BR-116;SP;126,880;Caçapava;Principal;Crescente;Ativo;;-23,106620;-45,697460
+NOVADUTRA;PRF Caicara;1999;BR-116;RJ;227,350;Piraí;Principal;Crescente;Ativo;;-22,666990;-43,841020
+NOVADUTRA;PRF Floriano;1999;BR-116;RJ;287,000;Barra Mansa;Principal;Crescente;Ativo;;-22,469980;-44,279070
+NOVADUTRA;PRF Guararema;1999;BR-116;SP;179,750;Guararema;Principal;Crescente;Ativo;;-23,334200;-46,141330
+NOVADUTRA;PRF Itatiaia;1999;BR-116;RJ;318,900;Itatiaia;Principal;Crescente;Ativo;;-22,495210;-44,571320
+VIA 040;Delegacia de Santa Maria/DF;2010;BR-40;DF;0,643;Brasília;Principal;Crescente;Ativo;;-15,982640;-47,989024
+VIA 040;Cristalina;2010;BR-40;GO;87,000;Cristalina;Principal;Crescente;Ativo;;-16,713814;-47,669734
+VIA 040;Paracatu;2010;BR-40;MG;47,500;Paracatu;Principal;Crescente;Ativo;;-17,241500;-46,823670
+VIA 040;Três Marias;2010;BR-40;MG;284,614;Três Marias;Principal;Crescente;Ativo;;-18,249259;-45,176903
+VIA 040;Sete Lagoas;2010;BR-40;MG;471,000;Sete Lagoas;Principal;Crescente/Decrescente;Ativo;;-19,474515;-44,291901
+VIA 040;Nova Lima;2010;BR-40;MG;554,278;Nova Lima;Principal;Crescente/Decrescente;Ativo;;-20,081837;-43,979105
+VIA 040;Congonhas;2010;BR-40;MG;607,000;Congonhas;Principal;Crescente;Ativo;;-20,476815;-43,842493
+VIA 040;Juiz de Fora;2010;BR-40;MG;766,292;Juiz de Fora;Principal;Crescente;Ativo;;-21,599554;-43,458091
+VIA BAHIA;Feira de Santana;2003;BR-116;BA;429,500;Feira de Santana;Principal;Decrescente;Ativo;;-12,288543;-39,010486
+VIA BAHIA;Milagres;2003;BR-116;BA;544,400;Itatim;Principal;Crescente;Ativo;;-12,856129;-39,847965
+VIA BAHIA;Jequié;2003;BR-116;BA;677,200;Jequié;Principal;Crescente;Ativo;;-13,880955;-40,136561
+VIA BAHIA;Poções;2003;BR-116;BA;759,000;Poções;Principal;Decrescente;Ativo;;-14,543002;-40,395276
+VIA BAHIA;Vitória da Conquista;2003;BR-116;BA;830,000;Vitória da Conquista;Principal;Decrescente;Ativo;;-14,912414;-40,875554
+VIA BAHIA;Divisa BA/MG;2003;BR-116;BA;931,700;Encruzilhada;Principal;Crescente;Ativo;;-15,685175;-41,325423
+VIA SUL;Polícia Rodoviária Federal de Torres;2019;BR-101;RS;0,200;Torres;Principal;Crescente/Decrescente;Ativo;;-29,300935;-49,771369
+VIA SUL;Polícia Rodoviária Federal de Osório;2019;BR-101;RS;83,200;Osório;Principal;Crescente;Ativo;;-29,857100;-50,248116

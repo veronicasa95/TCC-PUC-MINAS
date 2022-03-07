@@ -1,0 +1,17 @@
+https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/anuario-2020.html#fontes_de_dados_e_notas
+
+https://dados.antt.gov.br/dataset?res_format=CSV&license_id=cc-by&res_format=JSON&groups=rodovi
+
+
+'''
+#print(os.getcwd())
+DIRETORIO = os.path.join(os.getcwd(),'..','files','acidentes','por ocorrencia')
+#print(os.listdir(diretorio))
+
+for arquivo in os.listdir(DIRETORIO):
+    if '.csv' in arquivo:
+        acidentes = pd.read_csv(os.path.join(DIRETORIO,arquivo), encoding="iso8859-1",delimiter = ";")
+        print(acidentes.head())
+'''
+
+
